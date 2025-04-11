@@ -48,7 +48,7 @@ This project explores the Data Analyst job market using SQL queries on job posti
 ## 🛠️ Tech Stack
 
 - **SQL** — Core language used for querying and analyzing job posting datasets
-- **PostgreSQL** — (Assumed DB engine; adjust based on your actual setup)
+- **PostgreSQL** — Database engine used for querying job posting datasets
 - **pgAdmin** — Used for running and testing SQL queries in a user-friendly interface
 - **VS Code SQL Tools** — Utilized for writing and organizing queries within the code editor
 
