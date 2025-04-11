@@ -4,8 +4,6 @@ Question: Which skills commonly appear together in job postings?
 -Why? Reveals complementary skills to learn together, useful for course design or career planning.
 */
 
-
-
 WITH skill_pairs AS (
     SELECT
         sj1.skill_id AS skill_id_1,
