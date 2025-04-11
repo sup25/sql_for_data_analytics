@@ -74,6 +74,16 @@ ORDER BY
 LIMIT 25;
 ```
 
+### 🔍 Output
+
+| Skills   | Demand Count |
+| -------- | ------------ |
+| SQL      | 7291         |
+| Excel    | 4611         |
+| Python   | 4330         |
+| Tableau  | 3745         |
+| Power BI | 2609         |
+
 ---
 
 ## 👤 What I Learned
